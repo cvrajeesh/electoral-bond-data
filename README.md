@@ -7,5 +7,5 @@
 Files are under `/data` directory and PDF files are under `/source` directory.
 
 
-*Note:* Data is extracted using automated tools. If you find anything incorrect. Please open PR 
+*Note:* Data is extracted using automated tools. If you find anything incorrect. Please open a PR
 
