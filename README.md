@@ -12,7 +12,13 @@ Files are under `/data` directory and PDF files are under `/source` directory.
 
 ## Report
 
-![alt text](docs/image.png)
+Full report URL: https://lookerstudio.google.com/reporting/cf949a5c-f54c-428c-9566-9c6e2d7a97bf
 
-Access the report from here https://lookerstudio.google.com/reporting/cf949a5c-f54c-428c-9566-9c6e2d7a97bf
+### Screenshots
+
+![Purchaser Summary](docs/report-purchaser-summary.png)
+![Party Summary](docs/report-party-summary.png)
+![Top Parties](docs/report-top-parties.png)
+
+
 
